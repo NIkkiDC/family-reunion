@@ -233,15 +233,15 @@ p .codeby {
 
 @media (max-width: 900px) {
   h1 {
-    font-size: 36px;
+    font-size: 20px;
   }
 
   h2 {
-    font-size: 24px;
+    font-size: 120px;
   }
 
   h4 {
-    font-size: 18px;
+    font-size: 20px;
   }
 
   .hero {
