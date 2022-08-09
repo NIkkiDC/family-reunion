@@ -66,18 +66,15 @@ p {
 }
 
 h1 {
-  font-size: 25px;
   line-height: 1.5;
   color: var(--text-color);
 }
 
 h2 {
-  font-size: 30px;
   color: var(--text-color);
 }
 
 h4 {
-  font-size: 30px;
   color: var(--text-color);
 }
 
