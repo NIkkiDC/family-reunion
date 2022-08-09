@@ -6,6 +6,18 @@
   --default-font-family: "poppins", sans-serif;
 }
 
+.imgabt1 {
+  width: 200px;
+  height: 200px;
+  padding: 10px;
+}
+
+.imgabt2 {
+   width: 200px;
+  height: 200px;
+  padding: 5px;
+}
+
 body {
   font-family: var(--default-font-family);
   color: var(--text-color);
@@ -31,7 +43,7 @@ p {
 }
 
 h1 {
-  font-size: 96px;
+  font-size: 25px;
   line-height: 1.5;
   color: var(--text-color);
 }
