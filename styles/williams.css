@@ -54,7 +54,6 @@ h5,
 h6 {
   color:  var(--text-color);
   font-family: var(--heading-font-family);
-  font-weight: bold;
 }
 
 p {
