@@ -81,8 +81,14 @@ img {
   line-height: 1.5px;
 }
 
-.hero {
+.heroa {
   background-color: var(--secondary-color);
+  text-align: center;
+  padding: 160px 20px;
+}
+
+.herob {
+  background-color: var(--branding-color);
   text-align: center;
   padding: 160px 20px;
 }
