@@ -107,9 +107,27 @@ img {
   font-size: 24px;
 }
 
+
 .content-container {
   padding: 0px 20px;
 }
+
+.btn-primary {
+  color: var(--text-color);
+  background-color: var(--secondary-color);
+  padding: 5px 10px;
+  margin: 4 auto;
+  border: var(--secondary-color);
+  border-radius: 30px;
+  transition: all 150ms ease-in-out;
+}
+
+.btn-primary:hover {
+  background: var(--text-color);
+  color: var(--secondary-color);
+  cursor: pointer;
+}
+
 
 .content h1 {
   font-size: 40px;
