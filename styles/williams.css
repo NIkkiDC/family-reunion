@@ -93,17 +93,6 @@ img {
   padding: 50px 50px;
 }
 
-.heroc {
-  background-color: var(--secondary-color);
-  text-align: center;
-  padding: 50px 50px;
-}
-
-.herod {
-  background-color: var(--branding-color);
-  text-align: center;
-  padding: 50px 50px;
-}
 
 .hero p {
   font-weight: bold;
