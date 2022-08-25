@@ -6,6 +6,11 @@
   --default-font-family: "poppins", sans-serif;
 }
 
+ header {
+  position: sticky;
+  top:0;
+  background-color: white;
+}
 .imgabt1 {
   width: 200px;
   height: 200px;
