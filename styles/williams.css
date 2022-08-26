@@ -37,6 +37,11 @@
    height: 400px
  }
 
+ .img1 {
+   width: 50px;
+   height: 50px;
+ }
+
 .big {
   font-size: 50px;
 }
@@ -46,9 +51,6 @@
 
 }
 
-.room {
-  padding: 39px;
-}
 
 body {
   font-family: var(--default-font-family);
